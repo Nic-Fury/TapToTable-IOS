@@ -1,3 +1,8 @@
+<img width="2718" height="728" alt="image" src="https://github.com/user-attachments/assets/108cbcb6-fc12-4419-8cfd-1c84e139687a" />
+
+<img width="1320" height="2868" alt="image" src="https://github.com/user-attachments/assets/b4d14d7c-95a4-4630-9b35-fc0d219b7a5e" />
+
+
 KI generiert:
 # 📱 Automatisches Haushaltsbuch mit Apple Shortcuts & Numbers
 
