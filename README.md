@@ -23,8 +23,8 @@ Willkommen! Dieses Repository enthält alles, was du brauchst, um deine Ausgaben
 
 ### 2. Den iOS Kurzbefehl installieren
 1. Lade die `Eintrag zu Finanzen hinzufügen - TabToTable.shortcut`-Datei aus diesem Repository herunter und öffne sie auf dem iPhone.
-2. Erlaube dem Kurzbefehl bei der ersten Ausführung den Zugriff auf deine Numbers-Datei.
-3. Wähle im Kurzbefehl-Setup die eben gespeicherte Tabelle aus.
+2. Wähle im Kurzbefehl-Setup die eben gespeicherte Tabelle aus.
+3. Erlaube dem Kurzbefehl bei der ersten Ausführung den Zugriff auf deine Numbers-Datei.
 <img width="1320" height="461" alt="image" src="https://github.com/user-attachments/assets/cee973fb-e1b6-4d74-950d-5b9bc5552d11" />
 <img width="473" height="589" alt="image" src="https://github.com/user-attachments/assets/984f835f-1555-48eb-9436-66bac398d524" />
 
