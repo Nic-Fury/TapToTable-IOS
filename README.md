@@ -26,6 +26,7 @@ Willkommen! Dieses Repository enthält alles, was du brauchst, um deine Ausgaben
 2. Erlaube dem Kurzbefehl bei der ersten Ausführung den Zugriff auf deine Numbers-Datei.
 3. Wähle im Kurzbefehl-Setup die eben gespeicherte Tabelle aus.
 <img width="1320" height="461" alt="image" src="https://github.com/user-attachments/assets/cee973fb-e1b6-4d74-950d-5b9bc5552d11" />
+<img width="473" height="589" alt="image" src="https://github.com/user-attachments/assets/984f835f-1555-48eb-9436-66bac398d524" />
 
 
 ### 3. Den "Doppeltipp" aktivieren (Back Tap)
